@@ -1,0 +1,21 @@
+{
+    "author": "xyz",
+    "name": "censorify_xyz",
+    "version": "0.1.1",
+    "description": "Censors words out of text",
+    "main": "censortext",
+
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/dhsc/censorify_xyz"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
+
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
